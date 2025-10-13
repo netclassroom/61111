@@ -15,7 +15,7 @@
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
-        gtag('config', 'G-9WFJGF6YNK', { cookie_flags: 'secure;samesite=none' });
+        gtag('config', 'G-936WFJGF6YNK', { cookie_flags: 'secure;samesite=none' });
     </script>
 
 
